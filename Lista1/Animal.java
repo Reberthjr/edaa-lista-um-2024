@@ -1,3 +1,5 @@
+package Lista1;
+
 public class Animal {
     private int id;
     private String tipo;

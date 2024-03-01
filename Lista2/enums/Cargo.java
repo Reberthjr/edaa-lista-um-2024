@@ -1,4 +1,4 @@
-package aula2.enums;
+package Lista2.enums;
 
 public enum Cargo {
     

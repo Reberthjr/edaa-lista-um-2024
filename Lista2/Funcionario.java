@@ -1,4 +1,4 @@
-package aula2;
+package Lista2;
 
 public abstract class Funcionario {
     String nome;

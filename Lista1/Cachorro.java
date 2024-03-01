@@ -1,3 +1,5 @@
+package Lista1;
+
 public class Cachorro extends Animal {
     private String nome;
     private String raca;
