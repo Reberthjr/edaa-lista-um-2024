@@ -1,4 +1,4 @@
-package Lista2.enums;
+package Lista2.Atividade1.enums;
 
 public enum Cargo {
     

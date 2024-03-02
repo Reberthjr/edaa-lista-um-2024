@@ -1,6 +1,4 @@
-package Lista2;
-
-
+package Lista2.Atividade1;
 
 public class Aplicativo {
     public static void main(String[] args) {

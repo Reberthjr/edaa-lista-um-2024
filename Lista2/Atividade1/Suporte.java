@@ -1,4 +1,4 @@
-package Lista2;
+package Lista2.Atividade1;
 
 public class Suporte extends Funcionario {
 
